@@ -1,11 +1,5 @@
 {
     "matricNo" : "Your_matric_no",
     "password" : "Your_password",
-    "class" : [
-        "STA404",
-        "ISP565",
-        "ISP568",
-        "DSC551",
-        "TFC451"
-    ]
+    "class" : ["STA404","ISP565","ISP568","DSC551","TFC451"]
 }
