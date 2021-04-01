@@ -98,7 +98,11 @@ try:
 
         while option != -1:
             clear()
-            print("Welcome to Tick Attendance Automation by Irfan!!\n\n")
+            print("Welcome to Tick Attendance Automation by Irfan-Amy!")
+            print("Visit github repository if you want to download original binary file : https://github.com/Irfan-amy/AutoSignAttendance-Ufuture")
+
+            print()
+            print("Choose option:")
             i = 0
             
             
